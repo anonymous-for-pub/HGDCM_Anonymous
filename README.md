@@ -21,7 +21,7 @@ early-stage pandemic forecasting.
 
 ## Installation 
 ```shell
-git clone https://github.com/AlexWei21/Pandemic-Early-Warning.git
+git clone https://github.com/anonymous-for-pub/HGDCM_Anonymous.git
 cd Pandemic-Early-Warning
 ```
 
