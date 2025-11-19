@@ -1,0 +1,20 @@
+# Ignore Mac System Files
+/archive
+/data_files
+/data
+.DS_store
+.ipynb_checkpoints
+.idea
+*.log
+*.wandb
+*.png
+*.ckpt
+*.pyc
+*.pyc
+.pickle
+logs/
+plots/
+/__pycache__
+final/
+slurm-*.out
+run_logs/
